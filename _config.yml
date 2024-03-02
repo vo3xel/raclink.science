@@ -1,9 +1,9 @@
 # Site settings
-title: Raclink - Workflow as a Service (WaaS)
-email: mail@raclink.science
+title: Trash Panda Toolkit - Workflow as a Service (WaaS)
+email: mail@tptoolkit.xyz
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://raclink.science/" # the base hostname & protocol for your site
+url: "https://tptoolkit.xyz/" # the base hostname & protocol for your site
 
 twitter_username: vo3xel
 github_username: vo3xel
